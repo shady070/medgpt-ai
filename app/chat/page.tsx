@@ -77,7 +77,7 @@ const ChatPage = () => {
       </div>
       <div className="align-baseline w-full flex items-end">
         <Input
-          className="w-full bg-[#29292A] ml-[10px] mr-[10px]"
+          className="w-full bg-[#29292A] ml-[10px] mr-[10px] text-white"
           type="text"
           placeholder="What do you want to know?"
           value={inputValue}
