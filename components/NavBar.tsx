@@ -10,7 +10,7 @@ const NavBar = () => {
             <a className='text-white text-[24px]' href="/">Home</a>
         </div>
         <div className='flex gap-[20px] items-center'>
-            <Button className='text-[24px] gap-[6px] py-[8px] px-[14px] bg-[#d9d9d923] font-light hover:bg-[#0E0E10]'> <Image src='/invite.png' width={34} height={34} alt='Icon' /> Invite</Button>
+            <Button className='text-[24px] gap-[6px] py-[8px] px-[14px] bg-[#d9d9d923] font-light hover:bg-[#0E0E10]'> <Image src='/Invite.png' width={34} height={34} alt='Icon' /> Invite</Button>
             <Image src='/Settings.png' width={42} height={42} alt='Profile Picture' />
         </div>
     </nav>
